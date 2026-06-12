@@ -1,0 +1,25 @@
+{
+  "regime": "rpt-off",
+  "lambda": 0.2,
+  "n_sentences": 25000,
+  "results": [
+    {
+      "name": "full",
+      "dict_size": 160,
+      "speedup_pct": 4.3099,
+      "coverage_pct": 50.9633,
+      "intuit": 0.7534,
+      "singleword_ms_per_match": 51.83,
+      "suffix_ms_per_match": 40.81
+    },
+    {
+      "name": "words_only",
+      "dict_size": 160,
+      "speedup_pct": 4.8723,
+      "coverage_pct": 39.0386,
+      "intuit": 0.745,
+      "singleword_ms_per_match": 72.12,
+      "suffix_ms_per_match": null
+    }
+  ]
+}

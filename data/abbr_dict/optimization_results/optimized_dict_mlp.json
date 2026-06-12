@@ -1,0 +1,2518 @@
+{
+  "metadata": {
+    "lambda": 0.25,
+    "k_penalty": 1.0,
+    "min_intuitiveness": 0.4,
+    "max_dict_size": 250,
+    "model_name": "mlp",
+    "rpt_key": true,
+    "dict_size": 250,
+    "total_z_savings_gross": 1408261481.5961218,
+    "total_z_penalty": 1044240.9245396827,
+    "total_z_savings_net": 1407217240.6715822,
+    "avg_intuitiveness": 0.8700232000000017,
+    "timestamp": "2026-05-20 10:09:35"
+  },
+  "dictionary": [
+    {
+      "text": "the",
+      "abbr": "t",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 32033820,
+      "savings_z_mean": 3.2146506349206354,
+      "savings_keystrokes": 2.0,
+      "intuitiveness": 0.8922
+    },
+    {
+      "text": "and",
+      "abbr": "n",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 17723070,
+      "savings_z_mean": 3.0561956349206354,
+      "savings_keystrokes": 2.0,
+      "intuitiveness": 0.95
+    },
+    {
+      "text": "with",
+      "abbr": "w",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 11164090,
+      "savings_z_mean": 4.825590952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8837
+    },
+    {
+      "text": "have",
+      "abbr": "h",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 8414448,
+      "savings_z_mean": 5.1505559523809525,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "from",
+      "abbr": "f",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 7133280,
+      "savings_z_mean": 5.928745952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "you",
+      "abbr": "u",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 3152988,
+      "savings_z_mean": 3.846405634920635,
+      "savings_keystrokes": 2.0,
+      "intuitiveness": 0.95
+    },
+    {
+      "text": "just",
+      "abbr": "j",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 4427684,
+      "savings_z_mean": 5.341690952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "like",
+      "abbr": "l",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 4480720,
+      "savings_z_mean": 6.352435952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "about",
+      "abbr": "a",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 4092560,
+      "savings_z_mean": 6.50695126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.869
+    },
+    {
+      "text": "been",
+      "abbr": "b",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 3754560,
+      "savings_z_mean": 6.725755952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.95
+    },
+    {
+      "text": "some",
+      "abbr": "s",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 2903810,
+      "savings_z_mean": 4.839460952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "more",
+      "abbr": "m",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 2848752,
+      "savings_z_mean": 4.799050952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "know",
+      "abbr": "k",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 2455875,
+      "savings_z_mean": 5.595730952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "only",
+      "abbr": "o",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 2490238,
+      "savings_z_mean": 6.6687859523809525,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "into",
+      "abbr": "i",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 2224218,
+      "savings_z_mean": 5.356075952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "because",
+      "abbr": "be",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 2341280,
+      "savings_z_mean": 10.67802158730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8583
+    },
+    {
+      "text": "game",
+      "abbr": "g",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 2325440,
+      "savings_z_mean": 5.7758609523809525,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "people",
+      "abbr": "pe",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 2082000,
+      "savings_z_mean": 8.228236269841272,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8582
+    },
+    {
+      "text": "your",
+      "abbr": "y",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1883818,
+      "savings_z_mean": 5.2151909523809525,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8837
+    },
+    {
+      "text": "really",
+      "abbr": "r",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1916080,
+      "savings_z_mean": 10.28234658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.855
+    },
+    {
+      "text": "could",
+      "abbr": "c",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1788400,
+      "savings_z_mean": 7.09086626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.869
+    },
+    {
+      "text": "even",
+      "abbr": "e",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1773360,
+      "savings_z_mean": 6.259745952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "during",
+      "abbr": "d",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1562400,
+      "savings_z_mean": 8.70481658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8492
+    },
+    {
+      "text": "since",
+      "abbr": "sie",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1446240,
+      "savings_z_mean": 4.140675634920635,
+      "savings_keystrokes": 2.0,
+      "intuitiveness": 0.864
+    },
+    {
+      "text": "through",
+      "abbr": "th",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1373600,
+      "savings_z_mean": 9.817666587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8583
+    },
+    {
+      "text": "very",
+      "abbr": "v",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1314698,
+      "savings_z_mean": 6.381490952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "something",
+      "abbr": "some",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1263120,
+      "savings_z_mean": 8.980161587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "between",
+      "abbr": "bet",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1222240,
+      "savings_z_mean": 10.49550126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "looking",
+      "abbr": "loo",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1173600,
+      "savings_z_mean": 9.152951269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "never",
+      "abbr": "ne",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1092240,
+      "savings_z_mean": 6.890415952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.927
+    },
+    {
+      "text": "however",
+      "abbr": "how",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 1090400,
+      "savings_z_mean": 9.56414626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "part",
+      "abbr": "p",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 966640,
+      "savings_z_mean": 7.157390952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8765
+    },
+    {
+      "text": "another",
+      "abbr": "ano",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 941440,
+      "savings_z_mean": 7.25986126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "against",
+      "abbr": "aga",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 852800,
+      "savings_z_mean": 6.7987012698412705,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "anything",
+      "abbr": "any",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 852640,
+      "savings_z_mean": 9.639426587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "little",
+      "abbr": "lie",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 842480,
+      "savings_z_mean": 7.1580659523809524,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8672
+    },
+    {
+      "text": "without",
+      "abbr": "wit",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 777440,
+      "savings_z_mean": 7.73160626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8745
+    },
+    {
+      "text": "please",
+      "abbr": "ple",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 775040,
+      "savings_z_mean": 5.290115952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.865
+    },
+    {
+      "text": "started",
+      "abbr": "sta",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 764720,
+      "savings_z_mean": 10.151396269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "someone",
+      "abbr": "so",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 761840,
+      "savings_z_mean": 8.930736587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.9283
+    },
+    {
+      "text": "several",
+      "abbr": "sea",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 731600,
+      "savings_z_mean": 9.69510126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.9396
+    },
+    {
+      "text": "different",
+      "abbr": "diff",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 727360,
+      "savings_z_mean": 9.934686587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "including",
+      "abbr": "incl",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 698960,
+      "savings_z_mean": 9.878196587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "episode",
+      "abbr": "epie",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 678080,
+      "savings_z_mean": 8.662345952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8768
+    },
+    {
+      "text": "following",
+      "abbr": "foll",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 671040,
+      "savings_z_mean": 10.58935158730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "although",
+      "abbr": "alth",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 627440,
+      "savings_z_mean": 8.35806626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.881
+    },
+    {
+      "text": "everyone",
+      "abbr": "eve",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 603680,
+      "savings_z_mean": 10.273031587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.881
+    },
+    {
+      "text": "friends",
+      "abbr": "frin",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 600400,
+      "savings_z_mean": 6.742865952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8468
+    },
+    {
+      "text": "playing",
+      "abbr": "pla",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 588720,
+      "savings_z_mean": 8.54077626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "american",
+      "abbr": "amea",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 568240,
+      "savings_z_mean": 8.11721126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8548
+    },
+    {
+      "text": "character",
+      "abbr": "char",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 562160,
+      "savings_z_mean": 13.116201587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8925
+    },
+    {
+      "text": "already",
+      "abbr": "alr",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 560960,
+      "savings_z_mean": 7.837801269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "working",
+      "abbr": "wor",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 549920,
+      "savings_z_mean": 8.459811269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "everything",
+      "abbr": "ever",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 546800,
+      "savings_z_mean": 12.007781904761906,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "company",
+      "abbr": "com",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 545760,
+      "savings_z_mean": 9.901656269841272,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "general",
+      "abbr": "gea",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 544320,
+      "savings_z_mean": 8.634171269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.9396
+    },
+    {
+      "text": "actually",
+      "abbr": "actu",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 529680,
+      "savings_z_mean": 9.58860126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "released",
+      "abbr": "rele",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 527680,
+      "savings_z_mean": 9.76186626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "experience",
+      "abbr": "expe",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 501280,
+      "savings_z_mean": 13.445636904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.902
+    },
+    {
+      "text": "within",
+      "abbr": "wi",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 485455,
+      "savings_z_mean": 7.850301269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.93
+    },
+    {
+      "text": "together",
+      "abbr": "tog",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 491520,
+      "savings_z_mean": 10.062756587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "support",
+      "abbr": "sup",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 490400,
+      "savings_z_mean": 11.90930626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "received",
+      "abbr": "rece",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 487600,
+      "savings_z_mean": 10.092926269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "level",
+      "abbr": "le",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 487280,
+      "savings_z_mean": 6.830275952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.927
+    },
+    {
+      "text": "similar",
+      "abbr": "sim",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 477360,
+      "savings_z_mean": 9.02767626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "possible",
+      "abbr": "possie",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 475840,
+      "savings_z_mean": 4.736225634920635,
+      "savings_keystrokes": 2.0,
+      "intuitiveness": 0.8522
+    },
+    {
+      "text": "instead",
+      "abbr": "ins",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 473120,
+      "savings_z_mean": 8.35693126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "million",
+      "abbr": "mil",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 472880,
+      "savings_z_mean": 9.938086269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "nothing",
+      "abbr": "noti",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 465280,
+      "savings_z_mean": 5.637720952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8468
+    },
+    {
+      "text": "probably",
+      "abbr": "prob",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 461360,
+      "savings_z_mean": 8.88350626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "doesn't",
+      "abbr": "doe",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 459600,
+      "savings_z_mean": 8.24893126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "question",
+      "abbr": "ques",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 455360,
+      "savings_z_mean": 7.3922412698412705,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8547
+    },
+    {
+      "text": "issue",
+      "abbr": "is",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 451040,
+      "savings_z_mean": 7.670670952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.927
+    },
+    {
+      "text": "problem",
+      "abbr": "pro",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 450880,
+      "savings_z_mean": 8.90986626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "british",
+      "abbr": "brith",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 447280,
+      "savings_z_mean": 4.589060634920635,
+      "savings_keystrokes": 2.0,
+      "intuitiveness": 0.8597
+    },
+    {
+      "text": "original",
+      "abbr": "orig",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 446480,
+      "savings_z_mean": 8.49576626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "september",
+      "abbr": "sept",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 437680,
+      "savings_z_mean": 12.27854158730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "wondering",
+      "abbr": "wond",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 435040,
+      "savings_z_mean": 10.590441587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "currently",
+      "abbr": "curr",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 432640,
+      "savings_z_mean": 10.960066587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "version",
+      "abbr": "ver",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 418480,
+      "savings_z_mean": 8.34797126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "century",
+      "abbr": "cen",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 417920,
+      "savings_z_mean": 9.222201269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "government",
+      "abbr": "gove",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 413920,
+      "savings_z_mean": 13.332876904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "title",
+      "abbr": "tie",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 409280,
+      "savings_z_mean": 4.452890634920635,
+      "savings_keystrokes": 2.0,
+      "intuitiveness": 0.864
+    },
+    {
+      "text": "thinking",
+      "abbr": "ti",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 397600,
+      "savings_z_mean": 12.605871904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.9323
+    },
+    {
+      "text": "october",
+      "abbr": "oct",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 381280,
+      "savings_z_mean": 9.33116626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "according",
+      "abbr": "acco",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 380240,
+      "savings_z_mean": 10.115606587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "service",
+      "abbr": "se",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 376800,
+      "savings_z_mean": 12.152561587301587,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8583
+    },
+    {
+      "text": "members",
+      "abbr": "mem",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 372080,
+      "savings_z_mean": 9.32536126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "november",
+      "abbr": "nove",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 368480,
+      "savings_z_mean": 10.02226126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "relationship",
+      "abbr": "rela",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 366080,
+      "savings_z_mean": 16.05434253968254,
+      "savings_keystrokes": 8.0,
+      "intuitiveness": 0.8895
+    },
+    {
+      "text": "community",
+      "abbr": "comm",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 362800,
+      "savings_z_mean": 12.663576587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "country",
+      "abbr": "cou",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 361280,
+      "savings_z_mean": 9.95092126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "building",
+      "abbr": "buil",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 358320,
+      "savings_z_mean": 7.53369626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "further",
+      "abbr": "fur",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 357920,
+      "savings_z_mean": 8.306831269841272,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8745
+    },
+    {
+      "text": "damage",
+      "abbr": "da",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 352560,
+      "savings_z_mean": 9.17841126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.9282
+    },
+    {
+      "text": "december",
+      "abbr": "dece",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 352400,
+      "savings_z_mean": 9.44093626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "january",
+      "abbr": "jan",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 347920,
+      "savings_z_mean": 9.57126126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "university",
+      "abbr": "univ",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 347680,
+      "savings_z_mean": 13.516426904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "usually",
+      "abbr": "usu",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 347440,
+      "savings_z_mean": 9.96592626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "despite",
+      "abbr": "de",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 343120,
+      "savings_z_mean": 10.69909658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8583
+    },
+    {
+      "text": "understand",
+      "abbr": "und",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 341680,
+      "savings_z_mean": 15.690057222222222,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.891
+    },
+    {
+      "text": "finally",
+      "abbr": "fin",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 338880,
+      "savings_z_mean": 9.85482126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "described",
+      "abbr": "desc",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 338720,
+      "savings_z_mean": 13.965211587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "history",
+      "abbr": "his",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 338480,
+      "savings_z_mean": 8.25567626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "especially",
+      "abbr": "espe",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 336240,
+      "savings_z_mean": 14.996461904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "include",
+      "abbr": "inc",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 336080,
+      "savings_z_mean": 9.387551269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "english",
+      "abbr": "eng",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 334800,
+      "savings_z_mean": 8.046006269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "running",
+      "abbr": "run",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 330240,
+      "savings_z_mean": 10.09154626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "attack",
+      "abbr": "at",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 330080,
+      "savings_z_mean": 9.71224626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.93
+    },
+    {
+      "text": "considered",
+      "abbr": "conseed",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 328720,
+      "savings_z_mean": 7.724290952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.881
+    },
+    {
+      "text": "account",
+      "abbr": "ac",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 324720,
+      "savings_z_mean": 12.83267158730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.9318
+    },
+    {
+      "text": "important",
+      "abbr": "impo",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 324240,
+      "savings_z_mean": 11.352016587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "interested",
+      "abbr": "inte",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 323440,
+      "savings_z_mean": 14.449041904761906,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "minutes",
+      "abbr": "min",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 321040,
+      "savings_z_mean": 9.18059126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "college",
+      "abbr": "col",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 318960,
+      "savings_z_mean": 10.274086269841272,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "current",
+      "abbr": "cur",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 316480,
+      "savings_z_mean": 9.61246126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "writing",
+      "abbr": "wri",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 315920,
+      "savings_z_mean": 8.01988626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "outside",
+      "abbr": "out",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 306880,
+      "savings_z_mean": 9.90195126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "information",
+      "abbr": "info",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 305200,
+      "savings_z_mean": 13.357822222222223,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.8804
+    },
+    {
+      "text": "previous",
+      "abbr": "prev",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 304960,
+      "savings_z_mean": 8.02445126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "available",
+      "abbr": "avaie",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 302960,
+      "savings_z_mean": 9.084816269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8859
+    },
+    {
+      "text": "written",
+      "abbr": "wrie",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 302160,
+      "savings_z_mean": 7.663755952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8468
+    },
+    {
+      "text": "advance",
+      "abbr": "adv",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 299440,
+      "savings_z_mean": 9.59324626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "parents",
+      "abbr": "par",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 297280,
+      "savings_z_mean": 8.396876269841272,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "position",
+      "abbr": "pos",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 292160,
+      "savings_z_mean": 10.389776587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "throughout",
+      "abbr": "thro",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 292080,
+      "savings_z_mean": 12.799391904761904,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.8687
+    },
+    {
+      "text": "eventually",
+      "abbr": "even",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 291120,
+      "savings_z_mean": 14.706571904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "quite",
+      "abbr": "q",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 290800,
+      "savings_z_mean": 7.12861626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.852
+    },
+    {
+      "text": "feeling",
+      "abbr": "fi",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 290320,
+      "savings_z_mean": 11.933181587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.9318
+    },
+    {
+      "text": "february",
+      "abbr": "febr",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 288720,
+      "savings_z_mean": 8.96607626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "continued",
+      "abbr": "cont",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 287200,
+      "savings_z_mean": 12.47223158730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "completely",
+      "abbr": "comp",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 284240,
+      "savings_z_mean": 13.452236904761904,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "appreciated",
+      "abbr": "appr",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 283040,
+      "savings_z_mean": 17.60680222222222,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.8804
+    },
+    {
+      "text": "career",
+      "abbr": "car",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 281200,
+      "savings_z_mean": 7.439535952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.865
+    },
+    {
+      "text": "there's",
+      "abbr": "the",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 280160,
+      "savings_z_mean": 8.41365626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "himself",
+      "abbr": "him",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 279440,
+      "savings_z_mean": 8.169891269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "towards",
+      "abbr": "tow",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 273520,
+      "savings_z_mean": 8.932816269841272,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "division",
+      "abbr": "div",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 269706,
+      "savings_z_mean": 10.442736587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "happened",
+      "abbr": "happ",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 272320,
+      "savings_z_mean": 9.32426126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "talking",
+      "abbr": "tal",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 270480,
+      "savings_z_mean": 8.56183626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "development",
+      "abbr": "deve",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 270160,
+      "savings_z_mean": 16.817277222222224,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.8804
+    },
+    {
+      "text": "church",
+      "abbr": "ch",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 268800,
+      "savings_z_mean": 10.25003626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8582
+    },
+    {
+      "text": "basically",
+      "abbr": "basi",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 268640,
+      "savings_z_mean": 12.821226587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "children",
+      "abbr": "chie",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 268160,
+      "savings_z_mean": 9.057781269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8548
+    },
+    {
+      "text": "created",
+      "abbr": "cret",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 267200,
+      "savings_z_mean": 6.796565952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8468
+    },
+    {
+      "text": "production",
+      "abbr": "prod",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 264400,
+      "savings_z_mean": 13.472031904761906,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "performance",
+      "abbr": "perf",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 264320,
+      "savings_z_mean": 15.558552222222223,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.8804
+    },
+    {
+      "text": "office",
+      "abbr": "of",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 259600,
+      "savings_z_mean": 10.16442126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.9282
+    },
+    {
+      "text": "living",
+      "abbr": "li",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 256320,
+      "savings_z_mean": 8.01018126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.9282
+    },
+    {
+      "text": "allowed",
+      "abbr": "al",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 254880,
+      "savings_z_mean": 13.303071587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.9283
+    },
+    {
+      "text": "international",
+      "abbr": "inter",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 254080,
+      "savings_z_mean": 15.783062539682541,
+      "savings_keystrokes": 8.0,
+      "intuitiveness": 0.8914
+    },
+    {
+      "text": "various",
+      "abbr": "var",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 251280,
+      "savings_z_mean": 7.972751269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "special",
+      "abbr": "spea",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 251200,
+      "savings_z_mean": 7.239885952380952,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8468
+    },
+    {
+      "text": "situation",
+      "abbr": "situ",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 251120,
+      "savings_z_mean": 10.05936658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "whether",
+      "abbr": "whe",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 249040,
+      "savings_z_mean": 7.769916269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "street",
+      "abbr": "st",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 246720,
+      "savings_z_mean": 10.14471126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.86
+    },
+    {
+      "text": "published",
+      "abbr": "publ",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 245680,
+      "savings_z_mean": 11.39849658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "recorded",
+      "abbr": "re",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 245280,
+      "savings_z_mean": 16.552856904761903,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.9285
+    },
+    {
+      "text": "thoughts",
+      "abbr": "thou",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 244320,
+      "savings_z_mean": 9.06721126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.855
+    },
+    {
+      "text": "returned",
+      "abbr": "ret",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 242720,
+      "savings_z_mean": 12.099891587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "certain",
+      "abbr": "cer",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 242640,
+      "savings_z_mean": 8.98831126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "research",
+      "abbr": "resh",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 240960,
+      "savings_z_mean": 10.284041269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8848
+    },
+    {
+      "text": "business",
+      "abbr": "bus",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 240000,
+      "savings_z_mean": 9.60852658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.881
+    },
+    {
+      "text": "president",
+      "abbr": "pres",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 237280,
+      "savings_z_mean": 11.358576587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "western",
+      "abbr": "we",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 233920,
+      "savings_z_mean": 11.142491587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.9283
+    },
+    {
+      "text": "middle",
+      "abbr": "mie",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 231520,
+      "savings_z_mean": 7.578055952380953,
+      "savings_keystrokes": 3.0,
+      "intuitiveness": 0.8672
+    },
+    {
+      "text": "reached",
+      "abbr": "rea",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 230960,
+      "savings_z_mean": 9.51479626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "morning",
+      "abbr": "mor",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 230560,
+      "savings_z_mean": 8.311396269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "forward",
+      "abbr": "for",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 230000,
+      "savings_z_mean": 10.07040126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "seeing",
+      "abbr": "si",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 229120,
+      "savings_z_mean": 9.62523626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.93
+    },
+    {
+      "text": "southern",
+      "abbr": "sou",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 228080,
+      "savings_z_mean": 10.162986587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "average",
+      "abbr": "ave",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 226880,
+      "savings_z_mean": 9.424421269841272,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8745
+    },
+    {
+      "text": "changed",
+      "abbr": "cha",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 224400,
+      "savings_z_mean": 9.35829126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "australia",
+      "abbr": "aust",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 224240,
+      "savings_z_mean": 11.50483658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "campaign",
+      "abbr": "cam",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 223680,
+      "savings_z_mean": 11.82916658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "noticed",
+      "abbr": "not",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 221600,
+      "savings_z_mean": 10.82750626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "aircraft",
+      "abbr": "air",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 220320,
+      "savings_z_mean": 15.835306587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "features",
+      "abbr": "feat",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 220240,
+      "savings_z_mean": 8.406601269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8547
+    },
+    {
+      "text": "beginning",
+      "abbr": "beg",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 219120,
+      "savings_z_mean": 14.466131904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.8862
+    },
+    {
+      "text": "generally",
+      "abbr": "gene",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 218480,
+      "savings_z_mean": 12.757591587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "brother",
+      "abbr": "br",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 218080,
+      "savings_z_mean": 9.59071658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8618
+    },
+    {
+      "text": "japanese",
+      "abbr": "jap",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 217760,
+      "savings_z_mean": 11.241911587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "training",
+      "abbr": "tra",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 217520,
+      "savings_z_mean": 10.173606587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "haven't",
+      "abbr": "hav",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 214720,
+      "savings_z_mean": 8.26748126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "television",
+      "abbr": "tele",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 214560,
+      "savings_z_mean": 14.201111904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "reported",
+      "abbr": "rep",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 214080,
+      "savings_z_mean": 12.699861587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "personal",
+      "abbr": "per",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 213840,
+      "savings_z_mean": 10.50338158730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "followed",
+      "abbr": "fol",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 213840,
+      "savings_z_mean": 13.729901587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "political",
+      "abbr": "pol",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 211520,
+      "savings_z_mean": 12.969721904761904,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.8862
+    },
+    {
+      "text": "female",
+      "abbr": "fe",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 211280,
+      "savings_z_mean": 8.309576269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8582
+    },
+    {
+      "text": "interest",
+      "abbr": "int",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 209440,
+      "savings_z_mean": 10.48138658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.881
+    },
+    {
+      "text": "popular",
+      "abbr": "pop",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 207360,
+      "savings_z_mean": 9.47944626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "immediately",
+      "abbr": "imme",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 203600,
+      "savings_z_mean": 16.184912222222223,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.8804
+    },
+    {
+      "text": "tropical",
+      "abbr": "tro",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 203520,
+      "savings_z_mean": 12.281256587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "related",
+      "abbr": "rel",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 202640,
+      "savings_z_mean": 9.535036269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "suggestions",
+      "abbr": "sugges",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 200480,
+      "savings_z_mean": 10.075101587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8879
+    },
+    {
+      "text": "message",
+      "abbr": "me",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 199360,
+      "savings_z_mean": 11.95785158730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8583
+    },
+    {
+      "text": "addition",
+      "abbr": "add",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 199040,
+      "savings_z_mean": 10.840221587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "official",
+      "abbr": "off",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 198960,
+      "savings_z_mean": 11.221756587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "remained",
+      "abbr": "rema",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 197200,
+      "savings_z_mean": 9.06742126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "population",
+      "abbr": "popu",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 196640,
+      "savings_z_mean": 12.655436904761906,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "william",
+      "abbr": "wil",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 195840,
+      "savings_z_mean": 10.65913626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "located",
+      "abbr": "loc",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 195040,
+      "savings_z_mean": 9.769636269841271,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8445
+    },
+    {
+      "text": "watching",
+      "abbr": "wath",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 194880,
+      "savings_z_mean": 9.84590626984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8548
+    },
+    {
+      "text": "construction",
+      "abbr": "con",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 194480,
+      "savings_z_mean": 20.613517857142856,
+      "savings_keystrokes": 9.0,
+      "intuitiveness": 0.9005
+    },
+    {
+      "text": "required",
+      "abbr": "requ",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 194240,
+      "savings_z_mean": 9.58710126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8547
+    },
+    {
+      "text": "announced",
+      "abbr": "an",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 192480,
+      "savings_z_mean": 19.59504722222222,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.9327
+    },
+    {
+      "text": "missing",
+      "abbr": "mi",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 192240,
+      "savings_z_mean": 11.564476587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.9283
+    },
+    {
+      "text": "football",
+      "abbr": "foot",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 192000,
+      "savings_z_mean": 10.19284126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.8547
+    },
+    {
+      "text": "established",
+      "abbr": "esta",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 191600,
+      "savings_z_mean": 16.446272222222223,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.8809
+    },
+    {
+      "text": "whatever",
+      "abbr": "wha",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 191440,
+      "savings_z_mean": 11.81873658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "themselves",
+      "abbr": "tems",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 186960,
+      "savings_z_mean": 12.574981904761906,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.9012
+    },
+    {
+      "text": "additional",
+      "abbr": "addi",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 186160,
+      "savings_z_mean": 12.900776904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "literally",
+      "abbr": "lite",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 184400,
+      "savings_z_mean": 12.851196587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "involved",
+      "abbr": "inv",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 183360,
+      "savings_z_mean": 12.92600658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "initially",
+      "abbr": "init",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 182960,
+      "savings_z_mean": 13.090656587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "replaced",
+      "abbr": "repl",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 177920,
+      "savings_z_mean": 10.71746126984127,
+      "savings_keystrokes": 4.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "appeared",
+      "abbr": "ap",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 177440,
+      "savings_z_mean": 15.174586904761906,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.9323
+    },
+    {
+      "text": "particularly",
+      "abbr": "part",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 173760,
+      "savings_z_mean": 17.94542253968254,
+      "savings_keystrokes": 8.0,
+      "intuitiveness": 0.8882
+    },
+    {
+      "text": "significant",
+      "abbr": "sign",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 173280,
+      "savings_z_mean": 16.343807222222225,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.8804
+    },
+    {
+      "text": "pressure",
+      "abbr": "pre",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 167760,
+      "savings_z_mean": 11.72763158730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.881
+    },
+    {
+      "text": "definitely",
+      "abbr": "defi",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 166320,
+      "savings_z_mean": 12.973746904761907,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "successful",
+      "abbr": "succ",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 164080,
+      "savings_z_mean": 14.178021904761906,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "obviously",
+      "abbr": "obvi",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 163760,
+      "savings_z_mean": 11.205226587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "appreciate",
+      "abbr": "appre",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 163440,
+      "savings_z_mean": 11.90108158730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.891
+    },
+    {
+      "text": "attention",
+      "abbr": "att",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 162400,
+      "savings_z_mean": 12.222686904761904,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.9562
+    },
+    {
+      "text": "straight",
+      "abbr": "sht",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 161920,
+      "savings_z_mean": 12.14096658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.876
+    },
+    {
+      "text": "effects",
+      "abbr": "ef",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 157040,
+      "savings_z_mean": 14.050161587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.9283
+    },
+    {
+      "text": "practice",
+      "abbr": "pra",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 156880,
+      "savings_z_mean": 12.91297658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "believed",
+      "abbr": "bel",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 152560,
+      "savings_z_mean": 12.808591587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "championship",
+      "abbr": "champ",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 152000,
+      "savings_z_mean": 16.361152222222223,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.9124
+    },
+    {
+      "text": "magazine",
+      "abbr": "mag",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 150800,
+      "savings_z_mean": 12.85923158730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.851
+    },
+    {
+      "text": "background",
+      "abbr": "back",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 150080,
+      "savings_z_mean": 15.390606904761906,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "depression",
+      "abbr": "depr",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 148240,
+      "savings_z_mean": 14.816486904761906,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "california",
+      "abbr": "cali",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 146160,
+      "savings_z_mean": 13.695141904761904,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "absolutely",
+      "abbr": "abso",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 145680,
+      "savings_z_mean": 14.540606904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "considering",
+      "abbr": "cons",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 138880,
+      "savings_z_mean": 15.070522222222223,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.8804
+    },
+    {
+      "text": "slightly",
+      "abbr": "sl",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 138480,
+      "savings_z_mean": 13.325696904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.9323
+    },
+    {
+      "text": "subreddit",
+      "abbr": "subr",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 137760,
+      "savings_z_mean": 14.764001587301589,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "destroyed",
+      "abbr": "dest",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 137680,
+      "savings_z_mean": 14.35787658730159,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.8625
+    },
+    {
+      "text": "appearance",
+      "abbr": "appe",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 136720,
+      "savings_z_mean": 14.177561904761905,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.902
+    },
+    {
+      "text": "professional",
+      "abbr": "prof",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 135520,
+      "savings_z_mean": 19.693887539682542,
+      "savings_keystrokes": 8.0,
+      "intuitiveness": 0.8882
+    },
+    {
+      "text": "arrived",
+      "abbr": "ar",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 135120,
+      "savings_z_mean": 13.797956587301588,
+      "savings_keystrokes": 5.0,
+      "intuitiveness": 0.9283
+    },
+    {
+      "text": "association",
+      "abbr": "asso",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 135040,
+      "savings_z_mean": 14.989707222222222,
+      "savings_keystrokes": 7.0,
+      "intuitiveness": 0.8804
+    },
+    {
+      "text": "discussion",
+      "abbr": "disc",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 132640,
+      "savings_z_mean": 15.204346904761906,
+      "savings_keystrokes": 6.0,
+      "intuitiveness": 0.872
+    },
+    {
+      "text": "specifically",
+      "abbr": "spec",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 131120,
+      "savings_z_mean": 19.404892539682542,
+      "savings_keystrokes": 8.0,
+      "intuitiveness": 0.8882
+    },
+    {
+      "text": "recommendations",
+      "abbr": "recomme",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 119760,
+      "savings_z_mean": 16.653262539682544,
+      "savings_keystrokes": 8.0,
+      "intuitiveness": 0.8922
+    },
+    {
+      "text": "experiences",
+      "abbr": "eks",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 118560,
+      "savings_z_mean": 20.02321753968254,
+      "savings_keystrokes": 8.0,
+      "intuitiveness": 0.8818
+    },
+    {
+      "text": "approximately",
+      "abbr": "appro",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 113440,
+      "savings_z_mean": 19.364957539682543,
+      "savings_keystrokes": 8.0,
+      "intuitiveness": 0.8914
+    },
+    {
+      "text": "subsequently",
+      "abbr": "subs",
+      "trigger_form": "trg",
+      "type": "singleword",
+      "frequency": 97280,
+      "savings_z_mean": 20.45382253968254,
+      "savings_keystrokes": 8.0,
+      "intuitiveness": 0.8895
+    }
+  ]
+}

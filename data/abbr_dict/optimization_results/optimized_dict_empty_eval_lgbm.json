@@ -1,0 +1,22 @@
+{
+  "agg_speedup_pct": 0.2582,
+  "dict_size": 0,
+  "dict_mean_intuitiveness": null,
+  "dict_min_intuitiveness": null,
+  "total_ms_saved": 280148.03,
+  "total_t_normal_s": 108501.681,
+  "total_t_abbr_s": 108221.533,
+  "mean_sentence_savings_ms": 11.2059,
+  "std_sentence_savings_ms": 29.2047,
+  "z_savings_mean": 0.22234,
+  "z_savings_std": 0.579459,
+  "coverage_pct": 0.0,
+  "n_sentences": 25000,
+  "avg_sentence_len": 40.5,
+  "n_singleword_matches": 0,
+  "n_suffix_matches": 0,
+  "total_tokens": 193657,
+  "singleword_ms_per_match": null,
+  "suffix_ms_per_match": null,
+  "per_entry_stats": []
+}

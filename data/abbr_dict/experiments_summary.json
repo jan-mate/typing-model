@@ -1,0 +1,169 @@
+{
+  "regime": "rpt-on",
+  "lambda": 0.1,
+  "n_sentences": 25000,
+  "results": [
+    {
+      "name": "K3",
+      "dict_size": 64,
+      "speedup_pct": 7.2541,
+      "coverage_pct": 29.4691,
+      "intuit": 0.6937,
+      "singleword_ms_per_match": 144.04,
+      "suffix_ms_per_match": 114.54
+    },
+    {
+      "name": "K5",
+      "dict_size": 106,
+      "speedup_pct": 9.1304,
+      "coverage_pct": 32.1259,
+      "intuit": 0.7018,
+      "singleword_ms_per_match": 163.74,
+      "suffix_ms_per_match": 135.81
+    },
+    {
+      "name": "K8",
+      "dict_size": 160,
+      "speedup_pct": 11.5012,
+      "coverage_pct": 37.5618,
+      "intuit": 0.7184,
+      "singleword_ms_per_match": 175.4,
+      "suffix_ms_per_match": 153.17
+    },
+    {
+      "name": "K10",
+      "dict_size": 160,
+      "speedup_pct": 12.2266,
+      "coverage_pct": 43.4521,
+      "intuit": 0.7111,
+      "singleword_ms_per_match": 161.17,
+      "suffix_ms_per_match": 143.55
+    },
+    {
+      "name": "K12",
+      "dict_size": 160,
+      "speedup_pct": 12.9875,
+      "coverage_pct": 48.8219,
+      "intuit": 0.6898,
+      "singleword_ms_per_match": 150.92,
+      "suffix_ms_per_match": 138.86
+    },
+    {
+      "name": "K15",
+      "dict_size": 160,
+      "speedup_pct": 12.7541,
+      "coverage_pct": 50.75,
+      "intuit": 0.6985,
+      "singleword_ms_per_match": 142.8,
+      "suffix_ms_per_match": 130.6
+    },
+    {
+      "name": "N10",
+      "dict_size": 10,
+      "speedup_pct": 4.6068,
+      "coverage_pct": 18.1837,
+      "intuit": 0.743,
+      "singleword_ms_per_match": 142.26,
+      "suffix_ms_per_match": 146.32
+    },
+    {
+      "name": "N20",
+      "dict_size": 20,
+      "speedup_pct": 6.1534,
+      "coverage_pct": 27.022,
+      "intuit": 0.6733,
+      "singleword_ms_per_match": 131.71,
+      "suffix_ms_per_match": 107.76
+    },
+    {
+      "name": "N40",
+      "dict_size": 40,
+      "speedup_pct": 8.024,
+      "coverage_pct": 35.2438,
+      "intuit": 0.7132,
+      "singleword_ms_per_match": 129.96,
+      "suffix_ms_per_match": 116.79
+    },
+    {
+      "name": "N80",
+      "dict_size": 80,
+      "speedup_pct": 10.3049,
+      "coverage_pct": 43.0183,
+      "intuit": 0.7117,
+      "singleword_ms_per_match": 135.28,
+      "suffix_ms_per_match": 126.36
+    },
+    {
+      "name": "N160",
+      "dict_size": 160,
+      "speedup_pct": 12.9875,
+      "coverage_pct": 48.8219,
+      "intuit": 0.6898,
+      "singleword_ms_per_match": 150.92,
+      "suffix_ms_per_match": 138.86
+    },
+    {
+      "name": "N320",
+      "dict_size": 320,
+      "speedup_pct": 15.4429,
+      "coverage_pct": 51.6398,
+      "intuit": 0.6938,
+      "singleword_ms_per_match": 171.44,
+      "suffix_ms_per_match": 151.64
+    },
+    {
+      "name": "N640",
+      "dict_size": 612,
+      "speedup_pct": 17.2941,
+      "coverage_pct": 52.846,
+      "intuit": 0.7134,
+      "singleword_ms_per_match": 188.03,
+      "suffix_ms_per_match": 163.93
+    },
+    {
+      "name": "N1280",
+      "dict_size": 612,
+      "speedup_pct": 17.2941,
+      "coverage_pct": 52.846,
+      "intuit": 0.7134,
+      "singleword_ms_per_match": 188.03,
+      "suffix_ms_per_match": 163.93
+    },
+    {
+      "name": "words_only",
+      "dict_size": 160,
+      "speedup_pct": 12.3275,
+      "coverage_pct": 39.7533,
+      "intuit": 0.6862,
+      "singleword_ms_per_match": 174.42,
+      "suffix_ms_per_match": null
+    },
+    {
+      "name": "suffixes_only",
+      "dict_size": 112,
+      "speedup_pct": 3.1849,
+      "coverage_pct": 23.7606,
+      "intuit": 0.6741,
+      "singleword_ms_per_match": null,
+      "suffix_ms_per_match": 73.37
+    },
+    {
+      "name": "trg_only",
+      "dict_size": 160,
+      "speedup_pct": 12.7947,
+      "coverage_pct": 46.7569,
+      "intuit": 0.7262,
+      "singleword_ms_per_match": 156.41,
+      "suffix_ms_per_match": 143.39
+    },
+    {
+      "name": "doubletap",
+      "dict_size": 23,
+      "speedup_pct": 1.5246,
+      "coverage_pct": 5.2655,
+      "intuit": 0.531,
+      "singleword_ms_per_match": 152.93,
+      "suffix_ms_per_match": 126.37
+    }
+  ]
+}

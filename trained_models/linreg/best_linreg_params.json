@@ -1,0 +1,8 @@
+{
+    "penalty": "l2",
+    "alpha": 0.01216413935141706,
+    "learning_rate": "adaptive",
+    "eta0": 0.0017050539260269294,
+    "w_back": 1,
+    "w_ahead": 1
+}

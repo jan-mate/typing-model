@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "lambda": 0.2,
+    "overlap_penalty": 1.0,
+    "sigma_penalty": 1.0,
+    "min_intuitiveness": 0.4,
+    "max_dict_size": 0,
+    "model_name": "dl",
+    "rpt_key": true,
+    "dict_size": 0,
+    "note": "empty dictionary \u2014 measures pure RPT-regime overhead on normal text"
+  },
+  "dictionary": []
+}

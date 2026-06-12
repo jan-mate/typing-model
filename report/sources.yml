@@ -1,0 +1,253 @@
+dvorak1936:
+  type: book
+  author:
+    - Dvorak, August
+    - Merrick, Nellie L.
+    - Dealey, William L.
+    - Ford, Gertrude C.
+  title: "Typewriting Behavior: Psychology Applied to Teaching and Learning Typewriting"
+  date: 1936
+  publisher: "American Book Company"
+
+kinkead1975:
+  type: article
+  author:
+    - Kinkead, Robin
+  title: "Typing Speed, Keying Rates, and Optimal Keyboard Layouts"
+  journal: "Proceedings of the Human Factors Society Annual Meeting"
+  volume: 19
+  number: 2
+  date: 1975
+  doi: "10.1177/154193127501900203"
+
+noyes1983:
+  type: article
+  author:
+    - Noyes, Jan
+  title: "The QWERTY keyboard: A review"
+  journal: "International Journal of Man-Machine Studies"
+  volume: 18
+  number: 3
+  date: 1983
+  pages: "265–281"
+  doi: "10.1016/S0020-7373(83)80010-8"
+
+anderson2009:
+  type: article
+  author:
+    - Anderson, Allison M.
+    - Mirka, Gary A.
+    - Joines, Sharon M. B.
+    - Kaber, David B.
+  title: "Analysis of Alternative Keyboards Using Learning Curves"
+  journal: "Human Factors"
+  volume: 51
+  number: 1
+  date: 2009
+  pages: "35–45"
+  doi: "10.1177/0018720808329844"
+
+iseri2015:
+  type: article
+  author:
+    - İşeri, Ali
+    - Ekşioğlu, Mahmut
+  title: "Estimation of digraph costs for keyboard layout optimization"
+  journal: "International Journal of Industrial Ergonomics"
+  volume: 48
+  date: 2015
+  doi: "10.1016/j.ergon.2015.04.006"
+
+krzywinski-carpalx:
+  type: web
+  author:
+    - Krzywinski, Martin
+  title: "CARPALX — keyboard layout optimizer"
+  url: "https://mkweb.bcgsc.ca/carpalx/"
+  date: 2006
+
+# Typing as a motor skill
+
+hiraga1980:
+  type: proceedings
+  author:
+    - Hiraga, Yuzuru
+    - Ono, Yoshihiko
+    - Yamada, Hisao
+  title: "An analysis of the standard English keyboard"
+  publisher: "Association for Computational Linguistics"
+  date: 1980
+  pages: "242–248"
+  doi: "10.3115/990174.990218"
+  parent:
+    type: proceedings
+    title: "COLING '80: Proceedings of the 8th conference on Computational linguistics"
+
+salthouse1986:
+  type: article
+  author:
+    - Salthouse, Timothy A.
+  title: "Perceptual, cognitive, and motoric aspects of transcription typing"
+  journal: "Psychological Bulletin"
+  volume: 99
+  number: 3
+  date: 1986
+  pages: "303–319"
+
+gentner1988:
+  type: article
+  author:
+    - Gentner, Donald R.
+    - Larochelle, S.
+    - Grudin, J.
+  title: "Lexical, sublexical, and peripheral effects in skilled typewriting"
+  journal: "Cognitive Psychology"
+  volume: 20
+  number: 4
+  date: 1988
+  pages: "524–548"
+
+logan2011:
+  type: chapter
+  author:
+    - Logan, Gordon D.
+    - Crump, Matthew J. C.
+  title: "Hierarchical control of cognitive processes: The case for skilled typewriting"
+  parent:
+    type: periodical
+    title: "Psychology of Learning and Motivation"
+    volume: 54
+  date: 2011
+  publisher: "Elsevier"
+
+# Dataset
+
+dhakal2018:
+  type: proceedings
+  author:
+    - Dhakal, Vivek
+    - Feit, Anna Maria
+    - Kristensson, Per Ola
+    - Oulasvirta, Antti
+  title: "Observations on Typing from 136 Million Keystrokes"
+  publisher: "ACM"
+  date: 2018
+  doi: "10.1145/3173574.3174220"
+
+# Typability Index
+
+williams2026:
+  type: article
+  author:
+    - Williams, E. A.
+    - Warburton, M.
+    - Krzywinski, M.
+    - Mushtaq, F.
+  title: "The Typability Index: A tool for measuring and controlling for typing difficulty in text stimuli"
+  journal: "Behavior Research Methods"
+  volume: 58
+  number: 2
+  date: 2026
+  pages: "61"
+
+# Abbreviation systems
+
+cai2022:
+  type: proceedings
+  author:
+    - Cai, Shanqing
+    - Venugopalan, Subhashini
+    - Tomanek, Katrin
+    - Narayanan, Ajit
+    - Morris, Meredith Ringel
+    - Brenner, Michael P.
+  title: "Context-Aware Abbreviation Expansion Using Large Language Models"
+  publisher: "Association for Computational Linguistics"
+  date: 2022
+  pages: "1261–1275"
+  url: "https://aclanthology.org/2022.naacl-main.91"
+
+kreiss2023:
+  type: proceedings
+  author:
+    - Kreiss, Elisa
+    - Venugopalan, Subhashini
+    - Kane, Shaun
+    - Morris, Meredith Ringel
+  title: "Practical Challenges for Investigating Abbreviation Strategies"
+  publisher: "ACM"
+  date: 2023
+
+lesher2012:
+  type: proceedings
+  author:
+    - Lesher, Gregory W.
+    - Moulton, Bryan J.
+  title: "An Introduction to the Theoretical Limits of Abbreviation Expansion Performance"
+  publisher: "RESNA"
+  date: 2012
+  url: "https://www.resna.org/sites/default/files/legacy/conference/proceedings/2005/Research/CAC/Lesher.html"
+
+# Corpus
+
+baumgartner2020:
+  type: article
+  author:
+    - Baumgartner, Jason
+    - Zannettou, Savvas
+    - Keegan, Brian
+    - Squire, Megan
+    - Blackburn, Jeremy
+  title: "The Pushshift Reddit Dataset"
+  journal: "Proceedings of the International AAAI Conference on Web and Social Media"
+  volume: 14
+  number: 1
+  date: 2020
+  pages: "830–839"
+  doi: "10.1609/icwsm.v14i1.7347"
+
+merity2016:
+  type: article
+  author:
+    - Merity, Stephen
+    - Xiong, Caiming
+    - Bradbury, James
+    - Socher, Richard
+  title: "Pointer Sentinel Mixture Models"
+  journal: "arXiv preprint arXiv:1609.07843"
+  date: 2016
+
+
+liebowitz1990:
+  type: article
+  author:
+    - Liebowitz, Stan J.
+    - Margolis, Stephen E.
+  title: "The Fable of the Keys"
+  journal: "Journal of Law and Economics"
+  volume: 33
+  number: 1
+  date: 1990
+  pages: "1–25"
+  url: "https://www.jstor.org/stable/725385"
+
+strong1956:
+  type: book
+  author:
+    - Strong, Earle P.
+  title: "A Comparative Experiment in Simplified Keyboard Retraining and Standard Keyboard Supplementary Training"
+  date: 1956
+  publisher: "U.S. General Services Administration"
+  url: "https://archive.org/details/AComparativeExperimentInSimplifiedKeyboardRetrainingAndStandardKeyboardSupplementaryTraining/mode/2up"
+
+vanderheiden1982:
+  type: article
+  author:
+    - Vanderheiden, Gregg C.
+  title: "Computers can play a dual role for disabled individuals"
+  journal: "BYTE"
+  volume: 7
+  number: 9
+  date: 1982
+  pages: "136–162"
+  url: "https://archive.org/details/byte-magazine-1982-09"

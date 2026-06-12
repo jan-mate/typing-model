@@ -1,0 +1,111 @@
+{
+  "params": {
+    "top_k": 12,
+    "overlap_penalty": 1.0,
+    "sigma_penalty": 1.0,
+    "min_intuitiveness": 0.3,
+    "max_dict_size": 160,
+    "model": "dl"
+  },
+  "results": [
+    {
+      "lambda": 0.0,
+      "dict_size": 160,
+      "net_z_savings": 1865293.6844283342,
+      "avg_intuitiveness": 0.6302049999999998,
+      "solve_time": 17.761918747000003,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    },
+    {
+      "lambda": 0.1,
+      "dict_size": 160,
+      "net_z_savings": 2023590.6373862696,
+      "avg_intuitiveness": 0.6898237499999997,
+      "solve_time": 26.753669603000002,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    },
+    {
+      "lambda": 0.2,
+      "dict_size": 160,
+      "net_z_savings": 2056234.2799086508,
+      "avg_intuitiveness": 0.7324006249999997,
+      "solve_time": 46.439471173,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    },
+    {
+      "lambda": 0.3,
+      "dict_size": 160,
+      "net_z_savings": 2005611.565921905,
+      "avg_intuitiveness": 0.7584224999999998,
+      "solve_time": 50.268983317,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    },
+    {
+      "lambda": 0.4,
+      "dict_size": 160,
+      "net_z_savings": 1973546.9573844455,
+      "avg_intuitiveness": 0.7822962499999994,
+      "solve_time": 54.788775163000004,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    },
+    {
+      "lambda": 0.5,
+      "dict_size": 160,
+      "net_z_savings": 1962171.9211218269,
+      "avg_intuitiveness": 0.7857056249999995,
+      "solve_time": 50.544287126,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    },
+    {
+      "lambda": 0.6,
+      "dict_size": 160,
+      "net_z_savings": 1938222.1481708747,
+      "avg_intuitiveness": 0.7965906249999992,
+      "solve_time": 52.73313241100001,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    },
+    {
+      "lambda": 0.7,
+      "dict_size": 160,
+      "net_z_savings": 1883014.1811540495,
+      "avg_intuitiveness": 0.7998218749999992,
+      "solve_time": 56.824020723000004,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    },
+    {
+      "lambda": 0.8,
+      "dict_size": 160,
+      "net_z_savings": 1867766.9067877005,
+      "avg_intuitiveness": 0.8006237499999994,
+      "solve_time": 51.00924407,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    },
+    {
+      "lambda": 0.9,
+      "dict_size": 160,
+      "net_z_savings": 1822726.5668054777,
+      "avg_intuitiveness": 0.8017849999999992,
+      "solve_time": 50.718043374000004,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    },
+    {
+      "lambda": 1.0,
+      "dict_size": 160,
+      "net_z_savings": 1809134.317424684,
+      "avg_intuitiveness": 0.8026831249999992,
+      "solve_time": 49.514306469000005,
+      "solver_status": "OPTIMAL",
+      "gap_pct": 0.0
+    }
+  ]
+}
