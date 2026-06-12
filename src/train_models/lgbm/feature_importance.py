@@ -8,16 +8,15 @@ import lightgbm as lgb
 import shap
 import warnings
 
+from src.config import ENRICHED_DATA_PATH, model_dir
 from src.utils.data_loader import prepare_sequential_data, get_train_val_masks, get_categorical_indices, get_all_features
 from src.utils.training_utils import SEED, seed_everything, mae_with_ci
 
 warnings.filterwarnings('ignore')
 
-DRIVE_BASE_PATH = "/content/drive/MyDrive/typing-model"
-
 CFG = {
-    "data_path": f"{DRIVE_BASE_PATH}/enriched_data/enriched_with_folds.parquet",
-    "model_save_dir": f"{DRIVE_BASE_PATH}/models/lgbm",
+    "data_path": ENRICHED_DATA_PATH,
+    "model_save_dir": model_dir("lgbm_feature_importance"),
     "target": "iki_z",
     "w_back": 2,
     "w_ahead": 1,

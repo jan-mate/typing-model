@@ -8,15 +8,14 @@ import lightgbm as lgb
 from sklearn.metrics import r2_score
 import warnings
 
+from src.config import ENRICHED_DATA_PATH
 from src.utils.data_loader import prepare_sequential_data, get_train_val_masks, get_categorical_indices
 from src.utils.training_utils import SEED, mae_with_ci, seed_everything
 
 warnings.filterwarnings('ignore')
 
-DRIVE_BASE_PATH = "/content/drive/MyDrive/typing-model"
-
 CFG = {
-    "data_path": f"{DRIVE_BASE_PATH}/enriched_data/enriched_with_folds.parquet",
+    "data_path": ENRICHED_DATA_PATH,
     "target": "iki_z",
     "w_back": 2,
     "w_ahead": 1,
